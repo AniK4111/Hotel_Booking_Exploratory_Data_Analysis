@@ -1,13 +1,10 @@
 # Hotel Booking Analysis - EDA
 
-**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/87027885163818)
-
-![MasterHead](https://ezdatamunch.com/wp-content/uploads/2018/02/banner2.png)
 
 <font size="1">Image Courtesy: https://ezdatamunch.com/wp-content/uploads/2018/02/banner2.png</font>
 
 Click on the following link to checkout the video presentation and the colab file.
-- [Colab](https://colab.research.google.com/drive/1rmKgon2P4jbdDM3z-JOpxzFHxCpcvEYz?usp=sharing)
+- [Colab](https://colab.research.google.com/drive/19SYBwhN4mvRQXLBOTuJO-Y1GmCA-4CEK?usp=sharing)
 - [Video](https://drive.google.com/file/d/1GhPN8zVTQXL7G765z00dQz97eRawNRkA/view?usp=sharing)
 
 ---
